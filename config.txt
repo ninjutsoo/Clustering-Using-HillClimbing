@@ -1,0 +1,30 @@
+#####################################
+n_colors = 3
+alpha = 40
+img_path_input = 'img\Im001_1.tif'
+img_path_output = ''
+n_iterations = 50
+n_initial_points = 2000
+n_points = 10
+stop_stuck = 7
+alpha_dec = 0.9
+#####################################
+n_colors = 4
+alpha = 40
+img_path_input = 'img\Im001_1.tif'
+img_path_output = ''n_iterations = 50
+n_initial_points = 2000
+n_points = 10
+stop_stuck = 7
+alpha_dec = 0.9
+#####################################
+n_colors = 5
+alpha = 45
+img_path_input = 'img\Im001_1.tif'
+img_path_output = ''
+n_iterations = 50
+n_initial_points = 2000
+n_points = 10
+stop_stuck = 12
+alpha_dec = 0.9
+#####################################
